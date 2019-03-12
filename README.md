@@ -1,4 +1,7 @@
-# Tesla Battery Range Calculator in Vue
+### Welcome to the Hackages VueJS challenge!
+
+We have put together a small challenge for you to put your VueJS knowledge to test! Below you can find small subtasks for you to complete. Have fun!
+
 
 ### Getting started
 
@@ -11,7 +14,7 @@ yarn start (or npm run start)
 # Happy hacking ;)
 ```
 
-### Challenges
+### Tasks
 
 #### 1.
 
@@ -52,8 +55,12 @@ The solution is deployed live [here](https://gifted-lumiere-8b6fec.netlify.com/)
 
 You can take a look at the solution to see how the app should behave when everything is correct.
 
-You enjoyed this challenge?
+#### Congrats! You finished the challenge!
+ 
+You realised you need to brush your JS knowledge a bit? No worries, we offer the 2-day JavaScript Masterclass! 
+ 
+You loved it but you think your VueJS skills are not on point yet? Check out our upcoming VueJS HackCamps training sessions around Europe where you can learn all about Vue and Vuex and continue building Tesla and HackFlix guided by expert mentors!
 
-Check out our upcoming React HackCamps training sessions around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors!
-
-https://hackages.io/events
+https://hackages.io/events 
+ 
+ 
